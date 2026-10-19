@@ -178,7 +178,7 @@ Results: 4 PASSED  0 FAILED
 
 ## Author
 
-Rithwik kusuma
-Final Year B.Tech — Electrical and Electronics Engineering  
-NIT Warangal  
+Harshitha Chakinala
+Final Year B.Tech — Electrical Engineering  
+NIT Durgapur
 
